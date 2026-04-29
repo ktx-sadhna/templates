@@ -1,0 +1,9 @@
+{
+  "component": "PageHero",
+  "fields": [
+    { "name": "label", "type": "text", "label": "Page Label" },
+    { "name": "heading", "type": "text", "label": "Page Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Page Subtext (optional)" },
+    { "name": "image", "type": "image", "label": "Background Image (optional)" }
+  ]
+}

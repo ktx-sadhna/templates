@@ -1,0 +1,10 @@
+{
+  "component": "Faq",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "questions", "type": "array", "label": "FAQ Questions", "fields": [
+      { "name": "question", "type": "text", "label": "Question" },
+      { "name": "answer", "type": "richtext", "label": "Answer" }
+    ]}
+  ]
+}

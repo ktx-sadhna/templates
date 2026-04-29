@@ -1,0 +1,145 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "Our Services",
+    "heading": "Complete Dermatological Solutions",
+    "subtext": "From medical treatments to cosmetic enhancements, we offer comprehensive care for all your skin needs.",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1600&q=80"
+  },
+  "medical": {
+    "id": "medical",
+    "heading": "Medical Dermatology",
+    "subtext": "Expert diagnosis and treatment of skin conditions with evidence-based medicine.",
+    "services": [
+      {
+        "title": "Acne Treatment",
+        "description": "Comprehensive acne management using prescription medications, chemical peels, and laser therapy. We create customized treatment plans for mild to severe acne, addressing both active breakouts and scarring.",
+        "icon": "Pill",
+        "features": ["Prescription medications", "Chemical peels", "Laser therapy", "Scar reduction"]
+      },
+      {
+        "title": "Eczema & Psoriasis Care",
+        "description": "Advanced treatment options for chronic skin conditions including topical therapies, phototherapy, and biologic medications. Our goal is to control symptoms and improve your quality of life.",
+        "icon": "Bandage",
+        "features": ["Topical treatments", "Phototherapy", "Biologic medications", "Lifestyle counseling"]
+      },
+      {
+        "title": "Skin Cancer Screening",
+        "description": "Thorough full-body skin examinations using dermoscopy and digital imaging. Early detection saves lives, and our expertise ensures accurate diagnosis and appropriate treatment planning.",
+        "icon": "Search",
+        "features": ["Full-body examination", "Dermoscopy", "Digital mole mapping", "Biopsy services"]
+      },
+      {
+        "title": "Rosacea Management",
+        "description": "Specialized care for rosacea including trigger identification, prescription medications, and laser treatments to reduce redness and visible blood vessels while preventing flare-ups.",
+        "icon": "Droplet",
+        "features": ["Trigger identification", "Prescription therapy", "Laser treatments", "Skincare guidance"]
+      }
+    ]
+  },
+  "cosmetic": {
+    "id": "cosmetic",
+    "heading": "Cosmetic Dermatology",
+    "subtext": "Aesthetic treatments to enhance your natural beauty and restore youthful radiance.",
+    "services": [
+      {
+        "title": "Botox & Fillers",
+        "description": "Expert injectable treatments to smooth wrinkles, restore volume, and create natural-looking facial rejuvenation. Our artistic approach ensures balanced, subtle results that enhance your features.",
+        "icon": "Sparkles",
+        "features": ["Wrinkle reduction", "Volume restoration", "Lip enhancement", "Facial contouring"]
+      },
+      {
+        "title": "Chemical Peels",
+        "description": "Medical-grade chemical peels to improve skin texture, reduce fine lines, fade hyperpigmentation, and reveal brighter, smoother skin. Available in various strengths for different concerns.",
+        "icon": "Layers",
+        "features": ["Texture improvement", "Pigmentation correction", "Acne scar reduction", "Anti-aging"]
+      },
+      {
+        "title": "Laser Skin Resurfacing",
+        "description": "Advanced fractional laser technology to treat wrinkles, sun damage, scars, and uneven skin tone. Stimulates collagen production for long-lasting skin rejuvenation with minimal downtime.",
+        "icon": "Zap",
+        "features": ["Wrinkle reduction", "Scar improvement", "Sun damage repair", "Skin tightening"]
+      },
+      {
+        "title": "Microneedling",
+        "description": "Collagen induction therapy using medical-grade microneedling to improve skin texture, reduce scarring, and enhance product absorption. Can be combined with PRP for enhanced results.",
+        "icon": "Activity",
+        "features": ["Collagen stimulation", "Scar reduction", "Texture improvement", "PRP option"]
+      }
+    ]
+  },
+  "laser": {
+    "id": "laser",
+    "heading": "Laser & Light Therapies",
+    "subtext": "State-of-the-art laser technology for targeted skin improvements.",
+    "treatments": [
+      {
+        "title": "Laser Hair Removal",
+        "description": "Permanent hair reduction for all skin types using advanced diode laser technology. Safe, effective, and FDA-cleared for long-lasting results on face and body.",
+        "icon": "Scissors"
+      },
+      {
+        "title": "IPL Photofacial",
+        "description": "Intense Pulsed Light therapy to treat sun damage, age spots, redness, and broken capillaries. Improves overall skin tone and texture with no downtime.",
+        "icon": "Sun"
+      },
+      {
+        "title": "Vascular Lesion Treatment",
+        "description": "Targeted laser treatment for spider veins, broken capillaries, and cherry angiomas. Quick, comfortable procedures with excellent clearance rates.",
+        "icon": "GitBranch"
+      },
+      {
+        "title": "Pigmentation Correction",
+        "description": "Specialized laser treatment for melasma, sun spots, and post-inflammatory hyperpigmentation. Reveals clearer, more even-toned skin.",
+        "icon": "Palette"
+      }
+    ]
+  },
+  "consultation": {
+    "id": "consultation",
+    "heading": "Ready to Get Started?",
+    "text": "Schedule a consultation to discuss your skin concerns and discover which treatments are right for you. Our dermatologists will create a personalized plan to help you achieve your goals.",
+    "ctaLabel": "Book Consultation",
+    "ctaHref": "/contact",
+    "features": [
+      "Comprehensive skin analysis",
+      "Personalized treatment plan",
+      "Transparent pricing",
+      "Flexible scheduling"
+    ]
+  },
+  "seo": {
+    "title": "Dermatology Services | DermaCare Clinic",
+    "description": "Comprehensive skin care services including medical dermatology, cosmetic procedures, laser treatments, and skin cancer screening. Expert care from board-certified dermatologists.",
+    "keywords": ["dermatology services", "skin treatments", "laser therapy", "botox", "chemical peels", "acne treatment"],
+    "alternates": {
+      "canonical": "/services"
+    },
+    "openGraph": {
+      "title": "Dermatology Services | DermaCare Clinic",
+      "description": "Comprehensive skin care services from medical to cosmetic dermatology.",
+      "url": "/services",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Dermatology Services"
+        }
+      ],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dermatology Services | DermaCare Clinic",
+      "description": "Comprehensive skin care services from medical to cosmetic dermatology.",
+      "images": ["https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Dermatology Services",
+      "url": "/services"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "component": "Services",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "services", "type": "array", "label": "Services List", "fields": [
+      { "name": "title", "type": "text", "label": "Service Title" },
+      { "name": "description", "type": "textarea", "label": "Service Description" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide-react)" },
+      { "name": "image", "type": "image", "label": "Service Image" }
+    ]},
+    { "name": "exploreHref", "type": "url", "label": "Explore More Link (optional)" }
+  ]
+}

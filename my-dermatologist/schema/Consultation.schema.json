@@ -1,0 +1,12 @@
+{
+  "component": "Consultation",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "text", "type": "textarea", "label": "Description Text" },
+    { "name": "ctaLabel", "type": "text", "label": "CTA Button Label" },
+    { "name": "ctaHref", "type": "url", "label": "CTA Button Link" },
+    { "name": "features", "type": "array", "label": "Features List", "fields": [
+      { "name": "feature", "type": "text", "label": "Feature" }
+    ]}
+  ]
+}

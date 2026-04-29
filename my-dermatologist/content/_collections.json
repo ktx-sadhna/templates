@@ -1,0 +1,11 @@
+{
+  "_readme": "Declares blog collection URL patterns. Content config lives in blog.json via $itemsFrom.",
+  "blog": {
+    "contentFile": "blog",
+    "itemsSection": "blog",
+    "routes": [
+      { "id": "index", "pattern": "/blog" },
+      { "id": "paginated", "pattern": "/blog/page/:page" }
+    ]
+  }
+}

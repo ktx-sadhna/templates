@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Font tokens - reference the CSS variables from layout.tsx font imports */
+  --font-heading: var(--font-heading, "DM Serif Display", serif);
+  --font-body: var(--font-body, "Inter", sans-serif);
+
+  /* Tailwind utility mappings - each --color-* maps to a --theme-color-* variable */
+  --color-bg: var(--theme-color-bg);
+  --color-bg-muted: var(--theme-color-bg-muted);
+  --color-surface: var(--theme-color-surface);
+  --color-border: var(--theme-color-border);
+  --color-text: var(--theme-color-text);
+  --color-text-muted: var(--theme-color-text-muted);
+  --color-primary: var(--theme-color-primary);
+  --color-primary-fg: var(--theme-color-primary-fg);
+  --color-accent: var(--theme-color-accent);
+  --color-accent-fg: var(--theme-color-accent-fg);
+  --color-accent-dark: var(--theme-color-accent-dark);
+
+  /* Default token values - medical/professional color palette */
+  --theme-color-bg: #ffffff;
+  --theme-color-bg-muted: #f8fafc;
+  --theme-color-surface: #f1f5f9;
+  --theme-color-border: #e2e8f0;
+  --theme-color-text: #0f172a;
+  --theme-color-text-muted: #475569;
+  --theme-color-primary: #0284c7;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #06b6d4;
+  --theme-color-accent-fg: #ffffff;
+  --theme-color-accent-dark: #0c4a6e;
+}
+
+/* Professional medical theme - clean, trustworthy, clinical */
+.theme-professional {
+  --theme-color-bg: #ffffff;
+  --theme-color-bg-muted: #f8fafc;
+  --theme-color-surface: #f1f5f9;
+  --theme-color-border: #e2e8f0;
+  --theme-color-text: #0f172a;
+  --theme-color-text-muted: #475569;
+  --theme-color-primary: #0284c7;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #06b6d4;
+  --theme-color-accent-fg: #ffffff;
+  --theme-color-accent-dark: #0c4a6e;
+}
+
+/* Warm wellness theme - soft, inviting, organic */
+.theme-warm {
+  --theme-color-bg: #fefdfb;
+  --theme-color-bg-muted: #faf8f3;
+  --theme-color-surface: #f5f0e8;
+  --theme-color-border: #e8dcc9;
+  --theme-color-text: #3e2723;
+  --theme-color-text-muted: #6d5d4b;
+  --theme-color-primary: #b5651d;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #d97706;
+  --theme-color-accent-fg: #ffffff;
+  --theme-color-accent-dark: #78350f;
+}
+
+/* Luxury dark theme - premium, exclusive, high-end */
+.theme-luxury {
+  --theme-color-bg: #0a0a0a;
+  --theme-color-bg-muted: #1a1a1a;
+  --theme-color-surface: #2a2a2a;
+  --theme-color-border: #3a3a3a;
+  --theme-color-text: #f5f5f5;
+  --theme-color-text-muted: #a1a1a1;
+  --theme-color-primary: #d4af37;
+  --theme-color-primary-fg: #0a0a0a;
+  --theme-color-accent: #ffd700;
+  --theme-color-accent-fg: #0a0a0a;
+  --theme-color-accent-dark: #b8860b;
+}
+
+/* Minimal clean theme - ultra-light, editorial, simple */
+.theme-minimal {
+  --theme-color-bg: #ffffff;
+  --theme-color-bg-muted: #fafafa;
+  --theme-color-surface: #f5f5f5;
+  --theme-color-border: #e5e5e5;
+  --theme-color-text: #171717;
+  --theme-color-text-muted: #737373;
+  --theme-color-primary: #171717;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #404040;
+  --theme-color-accent-fg: #ffffff;
+  --theme-color-accent-dark: #0a0a0a;
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite linear;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%
+  );
+  background-size: 1000px 100%;
+}

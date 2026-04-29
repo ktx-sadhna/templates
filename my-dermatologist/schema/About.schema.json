@@ -1,0 +1,12 @@
+{
+  "component": "About",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "text", "type": "richtext", "label": "About Text" },
+    { "name": "image", "type": "image", "label": "About Image" },
+    { "name": "stats", "type": "array", "label": "Statistics", "fields": [
+      { "name": "value", "type": "text", "label": "Stat Value" },
+      { "name": "label", "type": "text", "label": "Stat Label" }
+    ]}
+  ]
+}

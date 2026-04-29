@@ -1,0 +1,10 @@
+{
+  "component": "Insurance",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "text", "type": "textarea", "label": "Description Text" },
+    { "name": "providers", "type": "array", "label": "Insurance Providers", "fields": [
+      { "name": "provider", "type": "text", "label": "Provider Name" }
+    ]}
+  ]
+}

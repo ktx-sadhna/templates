@@ -1,0 +1,58 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "Blog",
+    "heading": "Your Guide to Skin Cancer Screening and Prevention",
+    "subtext": "Early detection saves lives. Learn what to look for and when to see a dermatologist.",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1600&q=80"
+  },
+  "article": {
+    "id": "article",
+    "slug": "skin-cancer-screening-prevention",
+    "title": "Your Guide to Skin Cancer Screening and Prevention",
+    "excerpt": "Skin cancer is the most common cancer in the United States, but it's also one of the most preventable and treatable when caught early.",
+    "content": "<p>One in five Americans will develop skin cancer by age 70, making it the most common form of cancer in the United States. However, when detected early, most skin cancers are highly treatable. Understanding your risk factors and knowing what to look for can save your life.</p><h3>Types of Skin Cancer</h3><h4>Basal Cell Carcinoma (BCC)</h4><p>The most common type, BCC typically appears as a pearly or waxy bump, often on sun-exposed areas like the face, ears, and neck. While it rarely spreads, it can be locally destructive if left untreated.</p><h4>Squamous Cell Carcinoma (SCC)</h4><p>Often appearing as a firm red nodule or flat lesion with a scaly crust, SCC is the second most common skin cancer. It has a small risk of spreading to other parts of the body if not treated promptly.</p><h4>Melanoma</h4><p>The deadliest form of skin cancer, melanoma can develop in existing moles or appear as new dark spots on the skin. It spreads quickly if not caught early, making regular self-exams and professional screenings crucial.</p><h3>The ABCDE Rule for Melanoma Detection</h3><p>Use this simple guide during monthly self-examinations:</p><ul><li><strong>A - Asymmetry:</strong> One half of the mole doesn't match the other half</li><li><strong>B - Border:</strong> Irregular, scalloped, or poorly defined edges</li><li><strong>C - Color:</strong> Varied colors within the same mole (brown, black, tan, red, white, or blue)</li><li><strong>D - Diameter:</strong> Larger than 6mm (about the size of a pencil eraser)</li><li><strong>E - Evolving:</strong> Changes in size, shape, color, or symptoms like itching or bleeding</li></ul><p>If you notice any of these warning signs, schedule a dermatology appointment immediately. Don't wait for your annual checkup.</p><h3>Who Should Get Screened?</h3><p>Everyone should perform monthly self-examinations, but certain individuals should have professional screenings more frequently:</p><ul><li>People with a family history of skin cancer</li><li>Those with fair skin, light hair, and light eyes</li><li>Anyone with a history of severe sunburns or tanning bed use</li><li>Individuals with many moles (50 or more)</li><li>Those with weakened immune systems</li><li>People who work outdoors or have significant sun exposure</li></ul><h3>What Happens During a Skin Cancer Screening?</h3><p>A professional screening is quick, non-invasive, and potentially life-saving. Here's what to expect:</p><ol><li><strong>Full-body examination:</strong> Your dermatologist will examine your skin from head to toe, including areas you can't easily see yourself.</li><li><strong>Dermoscopy:</strong> A specialized magnifying device allows detailed examination of suspicious lesions.</li><li><strong>Digital imaging:</strong> Photos may be taken to track changes in moles over time.</li><li><strong>Biopsy:</strong> If a lesion looks suspicious, a small sample will be removed and sent to a lab for analysis.</li></ol><p>The entire process typically takes 15-30 minutes, depending on how many moles you have.</p><h3>Prevention Strategies</h3><p>While some risk factors like genetics can't be changed, you can significantly reduce your skin cancer risk:</p><ul><li>Apply broad-spectrum SPF 30+ sunscreen daily, even on cloudy days</li><li>Seek shade during peak sun hours (10 AM - 4 PM)</li><li>Wear protective clothing, including wide-brimmed hats and UV-blocking sunglasses</li><li>Avoid tanning beds completely—there is no such thing as a safe tan</li><li>Perform monthly self-examinations</li><li>Get annual professional skin cancer screenings</li></ul><h3>Early Detection Saves Lives</h3><p>The five-year survival rate for melanoma detected at its earliest stage is 99%. However, survival rates drop dramatically once it spreads to lymph nodes or other organs. This underscores the critical importance of early detection through regular self-exams and professional screenings.</p><p>At DermaCare Clinic, we use advanced dermoscopy and digital mole mapping technology to detect skin cancer at its earliest, most treatable stages. If you haven't had a skin cancer screening in the past year, or if you've noticed any concerning changes in your skin, don't delay—schedule your appointment today.</p>",
+    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1200&q=80",
+    "date": "2026-04-20",
+    "author": "Dr. Jennifer Roberts",
+    "readTime": "9 min read",
+    "category": "Prevention",
+    "backLink": "/blog",
+    "backLabel": "Back to Blog"
+  },
+  "seo": {
+    "title": "Skin Cancer Screening & Prevention Guide | DermaCare Blog",
+    "description": "Learn about skin cancer types, warning signs, and prevention strategies. Understand when to get screened and what to expect during examination.",
+    "keywords": ["skin cancer screening", "melanoma detection", "ABCDE rule", "skin cancer prevention", "dermatology screening"],
+    "alternates": {
+      "canonical": "/blog/skin-cancer-screening-prevention"
+    },
+    "openGraph": {
+      "title": "Skin Cancer Screening & Prevention | DermaCare Blog",
+      "description": "Early detection saves lives. Learn about screening and prevention.",
+      "url": "/blog/skin-cancer-screening-prevention",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Skin cancer screening"
+        }
+      ],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skin Cancer Screening & Prevention Guide",
+      "description": "Early detection saves lives.",
+      "images": ["https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Your Guide to Skin Cancer Screening and Prevention",
+      "url": "/blog/skin-cancer-screening-prevention",
+      "datePublished": "2026-04-20"
+    }
+  }
+}

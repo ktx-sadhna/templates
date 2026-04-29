@@ -1,0 +1,15 @@
+{
+  "component": "Article",
+  "fields": [
+    { "name": "title", "type": "text", "label": "Article Title" },
+    { "name": "excerpt", "type": "textarea", "label": "Article Excerpt" },
+    { "name": "content", "type": "richtext", "label": "Article Content (HTML)" },
+    { "name": "image", "type": "image", "label": "Featured Image" },
+    { "name": "date", "type": "text", "label": "Publication Date" },
+    { "name": "author", "type": "text", "label": "Author Name" },
+    { "name": "readTime", "type": "text", "label": "Read Time" },
+    { "name": "category", "type": "text", "label": "Category" },
+    { "name": "backLink", "type": "url", "label": "Back Link URL" },
+    { "name": "backLabel", "type": "text", "label": "Back Link Label" }
+  ]
+}

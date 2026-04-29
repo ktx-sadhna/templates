@@ -1,0 +1,14 @@
+{
+  "component": "ContactInfo",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "description", "type": "textarea", "label": "Description" },
+    { "name": "email", "type": "email", "label": "Email Address" },
+    { "name": "phone", "type": "text", "label": "Phone Number" },
+    { "name": "address", "type": "textarea", "label": "Physical Address" },
+    { "name": "hours", "type": "array", "label": "Office Hours", "fields": [
+      { "name": "days", "type": "text", "label": "Days" },
+      { "name": "time", "type": "text", "label": "Hours" }
+    ]}
+  ]
+}

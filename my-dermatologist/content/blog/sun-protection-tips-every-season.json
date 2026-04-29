@@ -1,0 +1,58 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "Blog",
+    "heading": "10 Essential Sun Protection Tips for Every Season",
+    "subtext": "Protecting your skin from UV damage is crucial year-round, not just in summer.",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1600&q=80"
+  },
+  "article": {
+    "id": "article",
+    "slug": "sun-protection-tips-every-season",
+    "title": "10 Essential Sun Protection Tips for Every Season",
+    "excerpt": "Learn how to protect your skin from harmful UV rays throughout the year with these expert-recommended strategies from our dermatologists.",
+    "content": "<p>Sun protection is one of the most important steps in any skincare routine, yet many people only think about it during summer beach days. The truth is, UV rays can damage your skin year-round, even on cloudy days and through windows.</p><p>Here are 10 essential sun protection strategies recommended by our board-certified dermatologists:</p><h3>1. Wear Sunscreen Daily</h3><p>Apply broad-spectrum SPF 30 or higher every morning, regardless of the weather or season. UV rays penetrate clouds and can reflect off snow, water, and even concrete.</p><h3>2. Reapply Throughout the Day</h3><p>Sunscreen effectiveness decreases over time. Reapply every two hours when outdoors, and immediately after swimming or sweating.</p><h3>3. Don't Forget Often-Missed Areas</h3><p>Ears, neck, hands, and the tops of feet are frequently neglected but highly susceptible to sun damage and skin cancer.</p><h3>4. Seek Shade During Peak Hours</h3><p>UV rays are strongest between 10 AM and 4 PM. When possible, plan outdoor activities outside these hours.</p><h3>5. Wear Protective Clothing</h3><p>Long sleeves, wide-brimmed hats, and UV-blocking sunglasses provide excellent physical sun protection.</p><h3>6. Check Your Medications</h3><p>Some medications increase sun sensitivity. Ask your dermatologist if any of your prescriptions require extra sun protection.</p><h3>7. Use Window Film</h3><p>Consider UV-blocking film for car and home windows, especially if you spend significant time near windows.</p><h3>8. Remember Winter Protection</h3><p>Snow reflects up to 80% of UV rays, doubling your exposure during winter sports and activities.</p><h3>9. Protect Your Lips</h3><p>Use SPF lip balm daily. Lips are vulnerable to sun damage and skin cancer.</p><h3>10. Perform Regular Skin Checks</h3><p>Examine your skin monthly for new or changing moles. Early detection is key to treating skin cancer successfully.</p><p>By following these guidelines consistently, you'll significantly reduce your risk of premature aging, sunburn, and skin cancer. If you have questions about sun protection for your specific skin type, schedule a consultation with our dermatology team.</p>",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80",
+    "date": "2026-04-15",
+    "author": "Dr. Jennifer Roberts",
+    "readTime": "5 min read",
+    "category": "Prevention",
+    "backLink": "/blog",
+    "backLabel": "Back to Blog"
+  },
+  "seo": {
+    "title": "10 Essential Sun Protection Tips | DermaCare Blog",
+    "description": "Expert sun protection strategies for every season from board-certified dermatologists. Learn how to prevent UV damage, premature aging, and skin cancer.",
+    "keywords": ["sun protection", "SPF", "UV protection", "skin cancer prevention", "sunscreen tips"],
+    "alternates": {
+      "canonical": "/blog/sun-protection-tips-every-season"
+    },
+    "openGraph": {
+      "title": "10 Essential Sun Protection Tips | DermaCare Blog",
+      "description": "Expert sun protection strategies for every season.",
+      "url": "/blog/sun-protection-tips-every-season",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Sun protection tips"
+        }
+      ],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "10 Essential Sun Protection Tips",
+      "description": "Expert strategies for UV protection year-round.",
+      "images": ["https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "10 Essential Sun Protection Tips for Every Season",
+      "url": "/blog/sun-protection-tips-every-season",
+      "datePublished": "2026-04-15"
+    }
+  }
+}

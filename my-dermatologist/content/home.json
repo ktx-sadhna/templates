@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "id": "hero",
+    "label": "Welcome",
+    "heading": "Expert Dermatological Care for Every Skin Type",
+    "subtext": "Experience comprehensive skin health solutions from board-certified dermatologists using the latest medical technology and proven treatment methods.",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1600&q=80",
+    "primaryCta": { "label": "Book Consultation", "href": "/contact" },
+    "secondaryCta": { "label": "Our Services", "href": "/services" }
+  },
+  "services": {
+    "id": "services",
+    "heading": "Comprehensive Skin Care Services",
+    "subtext": "From medical dermatology to cosmetic procedures, we offer complete solutions for your skin health and beauty goals.",
+    "services": [
+      {
+        "title": "Medical Dermatology",
+        "description": "Expert diagnosis and treatment of skin conditions including acne, eczema, psoriasis, and skin cancer screening.",
+        "icon": "Stethoscope",
+        "image": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=600&q=80"
+      },
+      {
+        "title": "Cosmetic Procedures",
+        "description": "Advanced aesthetic treatments including Botox, dermal fillers, chemical peels, and laser therapy for rejuvenation.",
+        "icon": "Sparkles",
+        "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&q=80"
+      },
+      {
+        "title": "Laser Treatments",
+        "description": "State-of-the-art laser technology for hair removal, skin resurfacing, pigmentation correction, and scar reduction.",
+        "icon": "Zap",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&q=80"
+      },
+      {
+        "title": "Skin Cancer Screening",
+        "description": "Comprehensive mole mapping and skin cancer detection using advanced dermoscopy and digital imaging.",
+        "icon": "Shield",
+        "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&q=80"
+      }
+    ],
+    "exploreHref": "/services"
+  },
+  "about": {
+    "id": "about",
+    "heading": "Board-Certified Dermatology Experts",
+    "text": "With over 20 years of combined experience, our team of board-certified dermatologists is dedicated to providing exceptional care. We stay at the forefront of dermatological advances, combining medical expertise with a compassionate approach to help you achieve optimal skin health.",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80",
+    "stats": [
+      { "value": "10,000+", "label": "Patients Treated" },
+      { "value": "20+", "label": "Years Experience" },
+      { "value": "98%", "label": "Satisfaction Rate" }
+    ]
+  },
+  "testimonials": {
+    "id": "testimonials",
+    "heading": "What Our Patients Say",
+    "testimonials": [
+      {
+        "name": "Sarah Mitchell",
+        "quote": "Dr. Roberts completely transformed my skin. After years of struggling with acne, I finally found a treatment plan that works. The entire team is professional, caring, and knowledgeable.",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+        "role": "Patient"
+      },
+      {
+        "name": "Michael Chen",
+        "quote": "The laser treatment for my sun damage was incredible. The results exceeded my expectations, and the procedure was comfortable and quick. Highly recommend DermaCare!",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+        "role": "Patient"
+      },
+      {
+        "name": "Emma Thompson",
+        "quote": "I felt heard and understood from my first consultation. The personalized approach to treating my eczema has made such a difference in my quality of life.",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+        "role": "Patient"
+      }
+    ]
+  },
+  "contact": {
+    "id": "contact",
+    "heading": "Schedule Your Consultation",
+    "description": "Take the first step toward healthier, more beautiful skin. Our team is ready to create a personalized treatment plan just for you.",
+    "email": "info@dermacareclinic.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Medical Plaza, Suite 200, Beverly Hills, CA 90210"
+  },
+  "seo": {
+    "title": "DermaCare Clinic | Expert Dermatological Care",
+    "description": "Leading dermatology clinic offering advanced skin treatments, cosmetic procedures, and expert care. Board-certified dermatologists providing personalized solutions for all your skin health needs.",
+    "keywords": ["dermatology", "skin care", "dermatologist", "cosmetic procedures", "laser treatment", "acne treatment", "skin cancer screening"],
+    "alternates": {
+      "canonical": "/"
+    },
+    "openGraph": {
+      "title": "DermaCare Clinic | Expert Dermatological Care",
+      "description": "Leading dermatology clinic offering advanced skin treatments and expert care.",
+      "url": "/",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "DermaCare Clinic"
+        }
+      ],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "DermaCare Clinic | Expert Dermatological Care",
+      "description": "Leading dermatology clinic offering advanced skin treatments and expert care.",
+      "images": ["https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "name": "DermaCare Clinic",
+      "url": "/",
+      "description": "Leading dermatology clinic offering advanced skin treatments, cosmetic procedures, and expert care."
+    }
+  }
+}

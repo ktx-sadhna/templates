@@ -1,0 +1,10 @@
+{
+  "component": "Contact",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "description", "type": "textarea", "label": "Description" },
+    { "name": "email", "type": "email", "label": "Contact Email" },
+    { "name": "phone", "type": "text", "label": "Phone Number" },
+    { "name": "address", "type": "textarea", "label": "Address" }
+  ]
+}

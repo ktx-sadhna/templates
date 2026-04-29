@@ -1,0 +1,58 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "Blog",
+    "heading": "Understanding Different Types of Acne and Their Treatments",
+    "subtext": "Not all acne is the same. Learn about the various forms and which treatments work best for each.",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=1600&q=80"
+  },
+  "article": {
+    "id": "article",
+    "slug": "types-of-acne-treatments",
+    "title": "Understanding Different Types of Acne and Their Treatments",
+    "excerpt": "Acne comes in many forms, from whiteheads to cystic lesions. Discover which type you have and the most effective treatment approaches.",
+    "content": "<p>Acne affects millions of people of all ages, but not all breakouts are created equal. Understanding your specific type of acne is the first step toward finding an effective treatment that works for your skin.</p><h3>Types of Acne</h3><h4>Comedonal Acne</h4><p>This includes blackheads and whiteheads that form when pores become clogged with oil and dead skin cells. Blackheads are open comedones that oxidize and turn dark, while whiteheads are closed and appear as small white bumps.</p><p><strong>Best treatments:</strong> Retinoids, salicylic acid, and regular professional extractions during facials can effectively clear comedonal acne.</p><h4>Inflammatory Acne</h4><p>Red, swollen papules and pustules characterize inflammatory acne. These occur when bacteria (C. acnes) multiply in clogged pores, triggering an immune response.</p><p><strong>Best treatments:</strong> Benzoyl peroxide, topical antibiotics, and oral antibiotics for moderate to severe cases. Anti-inflammatory ingredients like niacinamide can also help.</p><h4>Nodular and Cystic Acne</h4><p>The most severe forms of acne, these deep, painful lesions form beneath the skin's surface. Cystic acne contains pus, while nodules are hard, solid lumps. Both can cause significant scarring if not treated properly.</p><p><strong>Best treatments:</strong> Oral isotretinoin (Accutane) is often the most effective option. Cortisone injections can quickly reduce large, painful cysts. Hormonal therapies may help women with persistent cystic acne.</p><h4>Hormonal Acne</h4><p>This type typically appears along the jawline and chin, often flaring before menstrual periods. It's caused by hormonal fluctuations that increase oil production.</p><p><strong>Best treatments:</strong> Spironolactone, birth control pills, and topical retinoids can effectively manage hormonal acne.</p><h3>Building Your Treatment Plan</h3><p>The most effective acne treatment plans often combine multiple approaches:</p><ul><li>A consistent skincare routine with appropriate cleansers and treatments</li><li>Prescription medications tailored to your acne type and severity</li><li>Professional procedures like chemical peels or laser therapy</li><li>Lifestyle modifications including diet and stress management</li></ul><p>It's important to remember that acne treatment requires patience. Most therapies take 6-12 weeks to show significant improvement, and what works for one person may not work for another.</p><p>If you're struggling with persistent acne, schedule a consultation with our dermatology team. We'll evaluate your specific situation and create a personalized treatment plan to help you achieve clearer skin.</p>",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=1200&q=80",
+    "date": "2026-04-10",
+    "author": "Dr. Michael Chang",
+    "readTime": "7 min read",
+    "category": "Treatment",
+    "backLink": "/blog",
+    "backLabel": "Back to Blog"
+  },
+  "seo": {
+    "title": "Types of Acne and Treatments | DermaCare Blog",
+    "description": "Learn about different acne types from comedonal to cystic, and discover the most effective treatments for each. Expert guidance from dermatologists.",
+    "keywords": ["acne types", "acne treatment", "cystic acne", "hormonal acne", "dermatologist acne"],
+    "alternates": {
+      "canonical": "/blog/types-of-acne-treatments"
+    },
+    "openGraph": {
+      "title": "Understanding Different Types of Acne | DermaCare Blog",
+      "description": "Learn about acne types and the most effective treatments for each.",
+      "url": "/blog/types-of-acne-treatments",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Acne treatment guide"
+        }
+      ],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Understanding Different Types of Acne",
+      "description": "Expert guide to acne types and treatments.",
+      "images": ["https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Understanding Different Types of Acne and Their Treatments",
+      "url": "/blog/types-of-acne-treatments",
+      "datePublished": "2026-04-10"
+    }
+  }
+}

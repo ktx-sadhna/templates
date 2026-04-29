@@ -1,0 +1,8 @@
+{
+  "component": "Story",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "text", "type": "richtext", "label": "Story Text" },
+    { "name": "image", "type": "image", "label": "Story Image" }
+  ]
+}

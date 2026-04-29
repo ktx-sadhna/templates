@@ -1,0 +1,14 @@
+{
+  "component": "Team",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "members", "type": "array", "label": "Team Members", "fields": [
+      { "name": "name", "type": "text", "label": "Member Name" },
+      { "name": "role", "type": "text", "label": "Member Role" },
+      { "name": "image", "type": "image", "label": "Member Photo" },
+      { "name": "bio", "type": "textarea", "label": "Member Bio" },
+      { "name": "credentials", "type": "text", "label": "Credentials" }
+    ]}
+  ]
+}

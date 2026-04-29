@@ -1,0 +1,43 @@
+{
+  "theme": "theme-professional",
+  "headingFont": "DM Serif Display",
+  "bodyFont": "Inter",
+  "brand": {
+    "name": "DermaCare Clinic",
+    "tagline": "Expert Care for Healthy Skin",
+    "logo": "DermaCare",
+    "siteDescription": "Leading dermatology clinic offering advanced skin treatments, cosmetic procedures, and expert care. Our board-certified dermatologists provide personalized solutions for all your skin health needs."
+  },
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "cta": { "label": "Book Appointment", "href": "/contact" }
+  },
+  "footer": {
+    "brandName": "DermaCare Clinic",
+    "description": "Your trusted partner in skin health and beauty. Providing expert dermatological care with compassion and cutting-edge treatments.",
+    "copyright": "© 2026 DermaCare Clinic. All rights reserved.",
+    "navLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Service", "href": "/terms" }
+    ],
+    "socials": [
+      { "platform": "Facebook", "url": "https://facebook.com", "icon": "Facebook" },
+      { "platform": "Instagram", "url": "https://instagram.com", "icon": "Instagram" },
+      { "platform": "Twitter", "url": "https://twitter.com", "icon": "Twitter" },
+      { "platform": "LinkedIn", "url": "https://linkedin.com", "icon": "Linkedin" }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "component": "Cosmetic",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "services", "type": "array", "label": "Cosmetic Services", "fields": [
+      { "name": "title", "type": "text", "label": "Service Title" },
+      { "name": "description", "type": "richtext", "label": "Service Description" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide-react)" },
+      { "name": "features", "type": "array", "label": "Service Features", "fields": [
+        { "name": "feature", "type": "text", "label": "Feature" }
+      ]}
+    ]}
+  ]
+}

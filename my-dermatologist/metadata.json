@@ -1,0 +1,13 @@
+{
+  "id": "dermatologist",
+  "name": "Dermatologist Clinic with Blog",
+  "description": "Professional dermatology clinic template with treatment showcase, expert profiles, and informative blog",
+  "category": "Cosmetic or Skin Clinic",
+  "tags": ["dermatology", "skin care", "medical", "clinic", "blog", "health"],
+  "colors": {
+    "primary": "#0284c7",
+    "secondary": "#0c4a6e",
+    "accent": "#06b6d4"
+  },
+  "date": "2026-04-29"
+}

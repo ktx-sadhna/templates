@@ -1,0 +1,7 @@
+{
+  "component": "Blog",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" }
+  ]
+}

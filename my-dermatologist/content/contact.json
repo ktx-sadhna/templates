@@ -1,0 +1,96 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "Contact Us",
+    "heading": "Schedule Your Consultation Today",
+    "subtext": "Take the first step toward healthier, more beautiful skin. We're here to help.",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1600&q=80"
+  },
+  "contactInfo": {
+    "id": "contactInfo",
+    "heading": "Get in Touch",
+    "description": "Our friendly staff is ready to answer your questions and schedule your appointment. We look forward to welcoming you to DermaCare Clinic.",
+    "email": "info@dermacareclinic.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Medical Plaza, Suite 200, Beverly Hills, CA 90210",
+    "hours": [
+      { "days": "Monday - Thursday", "time": "8:00 AM - 6:00 PM" },
+      { "days": "Friday", "time": "8:00 AM - 4:00 PM" },
+      { "days": "Saturday", "time": "9:00 AM - 2:00 PM" },
+      { "days": "Sunday", "time": "Closed" }
+    ]
+  },
+  "faq": {
+    "id": "faq",
+    "heading": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "Do I need a referral to see a dermatologist?",
+        "answer": "Most insurance plans do not require a referral for dermatology visits, but we recommend checking with your insurance provider. We accept most major insurance plans and also welcome self-pay patients."
+      },
+      {
+        "question": "What should I expect during my first visit?",
+        "answer": "Your first visit will include a comprehensive skin examination and discussion of your concerns. Please bring a list of current medications and any relevant medical records. The appointment typically lasts 30-45 minutes."
+      },
+      {
+        "question": "How soon can I see results from cosmetic treatments?",
+        "answer": "Results vary by treatment. Botox takes 3-5 days to show effects with full results at two weeks. Fillers show immediate volume with final results after swelling subsides. Laser treatments and peels may require a series for optimal results."
+      },
+      {
+        "question": "Are your treatments safe for all skin types?",
+        "answer": "Yes, our board-certified dermatologists are experienced in treating all skin types and tones. We customize every treatment plan to ensure safety and effectiveness for your unique skin."
+      },
+      {
+        "question": "Do you offer payment plans?",
+        "answer": "We offer flexible payment options including CareCredit financing for cosmetic procedures. Medical dermatology services are typically covered by insurance. Our staff can discuss payment options during your consultation."
+      }
+    ]
+  },
+  "insurance": {
+    "id": "insurance",
+    "heading": "Insurance & Payment",
+    "text": "We accept most major insurance plans for medical dermatology services. Cosmetic procedures are typically not covered by insurance but can be financed through flexible payment options.",
+    "providers": [
+      "Blue Cross Blue Shield",
+      "Aetna",
+      "United Healthcare",
+      "Cigna",
+      "Medicare",
+      "CareCredit Financing"
+    ]
+  },
+  "seo": {
+    "title": "Contact Us | DermaCare Clinic",
+    "description": "Schedule your dermatology consultation in Beverly Hills. Call (555) 123-4567 or email us. Accepting new patients and most insurance plans.",
+    "keywords": ["dermatology appointment", "contact dermatologist", "Beverly Hills clinic", "skin consultation"],
+    "alternates": {
+      "canonical": "/contact"
+    },
+    "openGraph": {
+      "title": "Contact Us | DermaCare Clinic",
+      "description": "Schedule your dermatology consultation today. Accepting new patients.",
+      "url": "/contact",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Contact DermaCare Clinic"
+        }
+      ],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Contact Us | DermaCare Clinic",
+      "description": "Schedule your dermatology consultation today.",
+      "images": ["https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Contact Us",
+      "url": "/contact"
+    }
+  }
+}

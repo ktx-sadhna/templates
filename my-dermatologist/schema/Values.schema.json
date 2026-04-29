@@ -1,0 +1,11 @@
+{
+  "component": "Values",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "items", "type": "array", "label": "Values List", "fields": [
+      { "name": "title", "type": "text", "label": "Value Title" },
+      { "name": "description", "type": "textarea", "label": "Value Description" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide-react)" }
+    ]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "component": "Laser",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "treatments", "type": "array", "label": "Laser Treatments", "fields": [
+      { "name": "title", "type": "text", "label": "Treatment Title" },
+      { "name": "description", "type": "textarea", "label": "Treatment Description" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide-react)" }
+    ]}
+  ]
+}

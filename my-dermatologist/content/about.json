@@ -1,0 +1,103 @@
+{
+  "pageHero": {
+    "id": "pageHero",
+    "label": "About Us",
+    "heading": "Committed to Excellence in Dermatological Care",
+    "subtext": "Meet our team of board-certified dermatologists dedicated to your skin health and beauty.",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1600&q=80"
+  },
+  "story": {
+    "id": "story",
+    "heading": "Our Story",
+    "text": "Founded in 2006, DermaCare Clinic has grown from a single-practitioner office to a leading dermatology center serving thousands of patients annually. Our journey has been guided by a simple principle: provide the highest quality dermatological care with compassion and integrity. We combine cutting-edge medical technology with time-tested treatment approaches, ensuring every patient receives personalized care that addresses their unique skin concerns.",
+    "image": "https://images.unsplash.com/photo-1551601651-05539e48f413?w=1200&q=80"
+  },
+  "team": {
+    "id": "team",
+    "heading": "Meet Our Dermatologists",
+    "subtext": "Our board-certified experts bring decades of combined experience and specialized training.",
+    "members": [
+      {
+        "name": "Dr. Jennifer Roberts",
+        "role": "Medical Director & Board-Certified Dermatologist",
+        "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&q=80",
+        "bio": "Dr. Roberts completed her dermatology residency at Stanford University and has over 15 years of experience in medical and cosmetic dermatology. She specializes in skin cancer detection and advanced laser treatments.",
+        "credentials": "MD, FAAD"
+      },
+      {
+        "name": "Dr. Michael Chang",
+        "role": "Board-Certified Dermatologist",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+        "bio": "With a focus on pediatric and adult acne, Dr. Chang brings 12 years of experience from his training at UCLA Medical Center. He is known for his patient-centered approach and expertise in combination therapies.",
+        "credentials": "MD, FAAD"
+      },
+      {
+        "name": "Dr. Lisa Thompson",
+        "role": "Cosmetic Dermatology Specialist",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&q=80",
+        "bio": "Dr. Thompson is a leading expert in non-surgical facial rejuvenation. Her artistic eye and precise technique have helped hundreds achieve natural-looking results through injectables and advanced skin treatments.",
+        "credentials": "MD, FAAD"
+      }
+    ]
+  },
+  "values": {
+    "id": "values",
+    "heading": "Our Core Values",
+    "items": [
+      {
+        "title": "Evidence-Based Care",
+        "description": "We rely on proven medical research and clinical evidence to guide every treatment decision, ensuring you receive the most effective care available.",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Patient-First Approach",
+        "description": "Your comfort, concerns, and goals are at the center of everything we do. We take time to listen and create customized treatment plans.",
+        "icon": "Heart"
+      },
+      {
+        "title": "Continuous Innovation",
+        "description": "Our team stays current with the latest advances in dermatology, regularly attending conferences and training on new technologies and techniques.",
+        "icon": "Lightbulb"
+      },
+      {
+        "title": "Ethical Practice",
+        "description": "We recommend only treatments that truly benefit you, never overselling or pushing unnecessary procedures. Your trust is our priority.",
+        "icon": "ShieldCheck"
+      }
+    ]
+  },
+  "seo": {
+    "title": "About Us | DermaCare Clinic",
+    "description": "Meet our board-certified dermatologists and learn about our commitment to excellence in skin care. Over 20 years of experience serving the community with compassionate, expert care.",
+    "keywords": ["dermatologist team", "board-certified", "skin care experts", "dermatology clinic"],
+    "alternates": {
+      "canonical": "/about"
+    },
+    "openGraph": {
+      "title": "About Us | DermaCare Clinic",
+      "description": "Meet our board-certified dermatologists and learn about our commitment to excellence.",
+      "url": "/about",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "DermaCare Clinic Team"
+        }
+      ],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "About Us | DermaCare Clinic",
+      "description": "Meet our board-certified dermatologists and learn about our commitment to excellence.",
+      "images": ["https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=1200&q=80"]
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "About Us",
+      "url": "/about"
+    }
+  }
+}
