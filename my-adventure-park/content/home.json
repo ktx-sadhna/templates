@@ -1,0 +1,233 @@
+{
+  "hero": {
+    "id": "hero",
+    "headline": "Unleash Your Inner Adventurer",
+    "subtext": "Experience heart-pounding thrills in the great outdoors with zip lines, climbing walls, aerial courses, and scenic trails",
+    "primaryCta": {
+      "label": "Explore Activities",
+      "href": "#activities"
+    },
+    "secondaryCta": {
+      "label": "Learn More",
+      "href": "#about"
+    },
+    "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=1600&q=80"
+  },
+  "activities": {
+    "id": "activities",
+    "heading": "Our Adventures",
+    "subtext": "Choose your thrill level and challenge yourself with our range of outdoor activities",
+    "activities": [
+      {
+        "title": "Zip Line Canopy Tour",
+        "description": "Soar through the treetops on our network of high-speed zip lines spanning over 2 miles of forest canopy.",
+        "duration": "2 hours",
+        "difficulty": "Moderate",
+        "icon": "Zap",
+        "image": "https://images.unsplash.com/photo-1527933053326-89d1746b76b9?w=800&q=80"
+      },
+      {
+        "title": "Rock Climbing Wall",
+        "description": "Scale our 50-foot outdoor climbing wall with routes for beginners to advanced climbers, all with stunning mountain views.",
+        "duration": "1.5 hours",
+        "difficulty": "Beginner to Advanced",
+        "icon": "Mountain",
+        "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&q=80"
+      },
+      {
+        "title": "Aerial Rope Course",
+        "description": "Navigate suspended bridges, rope ladders, and challenging obstacles 30 feet above ground on our aerial adventure course.",
+        "duration": "2.5 hours",
+        "difficulty": "Moderate to Difficult",
+        "icon": "Network",
+        "image": "https://images.unsplash.com/photo-1571863533956-01c88e79957e?w=800&q=80"
+      },
+      {
+        "title": "Mountain Bike Trails",
+        "description": "Explore our network of cross-country trails ranging from gentle forest paths to technical downhill runs through rugged terrain.",
+        "duration": "3 hours",
+        "difficulty": "All Levels",
+        "icon": "Bike",
+        "image": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&q=80"
+      },
+      {
+        "title": "Nature Hiking Trails",
+        "description": "Discover scenic walking paths through forests, meadows, and along mountain ridges with wildlife viewing opportunities.",
+        "duration": "1-4 hours",
+        "difficulty": "Easy to Moderate",
+        "icon": "Trees",
+        "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&q=80"
+      },
+      {
+        "title": "Giant Swing",
+        "description": "Experience the ultimate adrenaline rush as you freefall from 70 feet before swinging in a massive arc over the valley.",
+        "duration": "30 minutes",
+        "difficulty": "Extreme",
+        "icon": "Wind",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+      }
+    ]
+  },
+  "about": {
+    "id": "about",
+    "heading": "Your Gateway to Outdoor Adventure",
+    "text": "Founded in 2010, Summit Peak Adventures has been creating unforgettable outdoor experiences for families, groups, and thrill-seekers of all ages. Nestled in the heart of the Blue Ridge Mountains, our park spans over 200 acres of pristine wilderness, offering the perfect blend of natural beauty and heart-pumping adventure. Our team of certified instructors and guides brings decades of combined experience in outdoor recreation, rock climbing, and wilderness safety. Every activity is designed with your safety in mind while maximizing the thrill and excitement. We believe that everyone deserves to experience the transformative power of outdoor adventure, which is why we offer programs tailored to all skill levels, from first-time adventurers to experienced outdoor enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+    "stats": [
+      {
+        "value": "50,000+",
+        "label": "Annual Visitors"
+      },
+      {
+        "value": "200",
+        "label": "Acres of Wilderness"
+      },
+      {
+        "value": "15+",
+        "label": "Years Operating"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      }
+    ]
+  },
+  "features": {
+    "id": "features",
+    "heading": "Why Choose Summit Peak",
+    "subtext": "Everything you need for an incredible outdoor adventure experience",
+    "features": [
+      {
+        "title": "Expert Guides",
+        "description": "All our instructors are certified professionals with extensive experience in outdoor recreation and wilderness safety.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Top Safety Standards",
+        "description": "We maintain the highest safety protocols with regular equipment inspections and comprehensive safety briefings before every activity.",
+        "icon": "Lock"
+      },
+      {
+        "title": "All Skill Levels",
+        "description": "From first-time adventurers to experienced thrill-seekers, we have activities and courses designed for everyone.",
+        "icon": "Users"
+      },
+      {
+        "title": "Premium Equipment",
+        "description": "State-of-the-art safety gear and equipment, regularly maintained and replaced to ensure optimal performance and safety.",
+        "icon": "Award"
+      },
+      {
+        "title": "Stunning Location",
+        "description": "Experience adventure in the breathtaking Blue Ridge Mountains with panoramic views and pristine natural surroundings.",
+        "icon": "MapPin"
+      },
+      {
+        "title": "Group Packages",
+        "description": "Special rates and customized experiences for corporate events, team building, birthday parties, and school groups.",
+        "icon": "Gift"
+      }
+    ]
+  },
+  "testimonials": {
+    "id": "testimonials",
+    "heading": "What Adventurers Say",
+    "subtext": "Real experiences from real thrill-seekers",
+    "testimonials": [
+      {
+        "name": "Sarah Mitchell",
+        "quote": "Absolutely incredible experience! The zip line tour was breathtaking and the guides made us feel completely safe while still delivering an adrenaline rush. Already planning our next visit with more friends!",
+        "role": "Adventure Enthusiast",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+        "rating": 5
+      },
+      {
+        "name": "James Rodriguez",
+        "quote": "Perfect for our team building event. The aerial rope course challenged everyone and brought our team closer together. The staff was professional, encouraging, and made sure everyone had a great time regardless of experience level.",
+        "role": "Corporate Team Leader",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+        "rating": 5
+      },
+      {
+        "name": "Emily Chen",
+        "quote": "Summit Peak turned my fear of heights into pure exhilaration! The instructors were patient and supportive as I conquered the climbing wall. The sense of accomplishment was worth every moment of nervousness. Highly recommend!",
+        "role": "First-Time Climber",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "id": "contact",
+    "heading": "Ready for Adventure?",
+    "subtext": "Book your experience today or get in touch with any questions",
+    "email": "info@summitpeakadventures.com",
+    "phone": "(555) 123-4567",
+    "address": "2450 Mountain Ridge Road, Blue Ridge, NC 28904",
+    "hours": "Daily 9:00 AM - 6:00 PM (April-October) | Weekends 10:00 AM - 5:00 PM (November-March)",
+    "ctaText": "Send us a message and we'll get back to you within 24 hours",
+    "ctaButton": "Get in Touch"
+  },
+  "seo": {
+    "title": "Summit Peak Adventures | Outdoor Adventure Park with Zip Lines & Climbing",
+    "description": "Experience the ultimate outdoor adventure at Summit Peak Adventures. Zip lines, climbing walls, aerial courses, and nature trails for all ages and skill levels in the Blue Ridge Mountains.",
+    "keywords": ["adventure park", "zip line", "rock climbing", "outdoor activities", "aerial course", "mountain biking", "Blue Ridge Mountains"],
+    "alternates": {
+      "canonical": "/"
+    },
+    "openGraph": {
+      "title": "Summit Peak Adventures | Outdoor Adventure Park",
+      "description": "Experience heart-pounding thrills in the great outdoors with zip lines, climbing walls, aerial courses, and scenic trails.",
+      "url": "/",
+      "siteName": "Summit Peak Adventures",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=1200&q=80",
+          "width": 1200,
+          "height": 630,
+          "alt": "Adventure park zip line through forest"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Summit Peak Adventures | Outdoor Adventure Park",
+      "description": "Experience heart-pounding thrills with zip lines, climbing walls, and aerial courses in the Blue Ridge Mountains.",
+      "images": ["https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=1200&q=80"],
+      "creator": "@summitpeakadv"
+    },
+    "robots": {
+      "index": true,
+      "follow": true,
+      "nocache": false,
+      "googleBot": {
+        "index": true,
+        "follow": true,
+        "noimageindex": false,
+        "max-video-preview": -1,
+        "max-image-preview": "large",
+        "max-snippet": -1
+      }
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Summit Peak Adventures",
+      "url": "/",
+      "description": "Outdoor adventure park featuring zip lines, climbing walls, aerial rope courses, and nature trails in the Blue Ridge Mountains.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2450 Mountain Ridge Road",
+        "addressLocality": "Blue Ridge",
+        "addressRegion": "NC",
+        "postalCode": "28904",
+        "addressCountry": "US"
+      },
+      "telephone": "(555) 123-4567",
+      "email": "info@summitpeakadventures.com",
+      "priceRange": "$$"
+    }
+  }
+}

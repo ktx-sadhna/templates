@@ -1,0 +1,13 @@
+{
+  "component": "Navbar",
+  "fields": [
+    { "name": "links", "type": "array", "label": "Navigation Links", "fields": [
+      { "name": "label", "type": "text", "label": "Link Label" },
+      { "name": "href", "type": "url", "label": "Link URL" }
+    ]},
+    { "name": "cta", "type": "array", "label": "CTA Button", "fields": [
+      { "name": "label", "type": "text", "label": "Button Label" },
+      { "name": "href", "type": "url", "label": "Button Link" }
+    ]}
+  ]
+}

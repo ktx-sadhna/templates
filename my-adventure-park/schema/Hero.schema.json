@@ -1,0 +1,16 @@
+{
+  "component": "Hero",
+  "fields": [
+    { "name": "headline", "type": "text", "label": "Headline" },
+    { "name": "subtext", "type": "textarea", "label": "Subtext" },
+    { "name": "primaryCta", "type": "array", "label": "Primary CTA", "fields": [
+      { "name": "label", "type": "text", "label": "Button Label" },
+      { "name": "href", "type": "url", "label": "Button Link" }
+    ]},
+    { "name": "secondaryCta", "type": "array", "label": "Secondary CTA", "fields": [
+      { "name": "label", "type": "text", "label": "Button Label" },
+      { "name": "href", "type": "url", "label": "Button Link" }
+    ]},
+    { "name": "image", "type": "image", "label": "Background Image" }
+  ]
+}

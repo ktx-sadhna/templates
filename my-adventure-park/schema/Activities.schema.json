@@ -1,0 +1,15 @@
+{
+  "component": "Activities",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "activities", "type": "array", "label": "Activities List", "fields": [
+      { "name": "title", "type": "text", "label": "Activity Title" },
+      { "name": "description", "type": "textarea", "label": "Activity Description" },
+      { "name": "duration", "type": "text", "label": "Duration" },
+      { "name": "difficulty", "type": "text", "label": "Difficulty Level" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide)" },
+      { "name": "image", "type": "image", "label": "Activity Image" }
+    ]}
+  ]
+}

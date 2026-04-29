@@ -1,0 +1,13 @@
+{
+  "component": "Contact",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "email", "type": "email", "label": "Email Address" },
+    { "name": "phone", "type": "text", "label": "Phone Number" },
+    { "name": "address", "type": "textarea", "label": "Physical Address" },
+    { "name": "hours", "type": "textarea", "label": "Operating Hours" },
+    { "name": "ctaText", "type": "text", "label": "CTA Text" },
+    { "name": "ctaButton", "type": "text", "label": "CTA Button Label" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adventure-park",
+  "name": "Adventure Park",
+  "description": "Thrilling outdoor adventure park with zip lines, climbing walls, and nature trails",
+  "category": "Others",
+  "tags": ["adventure", "outdoor", "activities", "park", "recreation"],
+  "colors": {
+    "primary": "#f97316",
+    "secondary": "#16a34a",
+    "accent": "#0ea5e9"
+  },
+  "date": "2026-04-29"
+}

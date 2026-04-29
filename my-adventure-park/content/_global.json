@@ -1,0 +1,49 @@
+{
+  "theme": "theme-nature",
+  "headingFont": "Archivo Black",
+  "bodyFont": "Inter",
+  "brand": {
+    "name": "Summit Peak Adventures",
+    "tagline": "Where Thrills Meet Nature",
+    "logo": "Summit Peak Adventures",
+    "siteDescription": "Experience the ultimate outdoor adventure at Summit Peak Adventures. Zip lines, climbing walls, aerial courses, and nature trails for all ages and skill levels."
+  },
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "#hero" },
+      { "label": "Activities", "href": "#activities" },
+      { "label": "About", "href": "#about" },
+      { "label": "Features", "href": "#features" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": {
+      "label": "Book Now",
+      "href": "#contact"
+    }
+  },
+  "footer": {
+    "brandName": "Summit Peak Adventures",
+    "description": "Experience the ultimate outdoor adventure with zip lines, climbing walls, aerial courses, and scenic nature trails.",
+    "copyright": "© 2026 Summit Peak Adventures. All rights reserved.",
+    "navLinks": [
+      { "label": "Home", "href": "#hero" },
+      { "label": "Activities", "href": "#activities" },
+      { "label": "About", "href": "#about" },
+      { "label": "Features", "href": "#features" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms of Service", "href": "/terms" },
+      { "label": "Safety Guidelines", "href": "/safety" }
+    ],
+    "socials": [
+      { "platform": "Facebook", "url": "https://facebook.com/summitpeakadventures", "icon": "Facebook" },
+      { "platform": "Instagram", "url": "https://instagram.com/summitpeakadventures", "icon": "Instagram" },
+      { "platform": "Twitter", "url": "https://twitter.com/summitpeakadv", "icon": "Twitter" },
+      { "platform": "YouTube", "url": "https://youtube.com/summitpeakadventures", "icon": "Youtube" }
+    ]
+  }
+}

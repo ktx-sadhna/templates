@@ -1,0 +1,21 @@
+{
+  "component": "Footer",
+  "fields": [
+    { "name": "brandName", "type": "text", "label": "Brand Name" },
+    { "name": "description", "type": "textarea", "label": "Footer Description" },
+    { "name": "copyright", "type": "text", "label": "Copyright Text" },
+    { "name": "navLinks", "type": "array", "label": "Navigation Links", "fields": [
+      { "name": "label", "type": "text", "label": "Link Label" },
+      { "name": "href", "type": "url", "label": "Link URL" }
+    ]},
+    { "name": "links", "type": "array", "label": "Legal Links", "fields": [
+      { "name": "label", "type": "text", "label": "Link Label" },
+      { "name": "href", "type": "url", "label": "Link URL" }
+    ]},
+    { "name": "socials", "type": "array", "label": "Social Links", "fields": [
+      { "name": "platform", "type": "text", "label": "Platform Name" },
+      { "name": "url", "type": "url", "label": "Platform URL" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide)" }
+    ]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "component": "Testimonials",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "testimonials", "type": "array", "label": "Testimonials List", "fields": [
+      { "name": "name", "type": "text", "label": "Client Name" },
+      { "name": "quote", "type": "textarea", "label": "Quote Text" },
+      { "name": "role", "type": "text", "label": "Client Role" },
+      { "name": "avatar", "type": "image", "label": "Avatar Image" },
+      { "name": "rating", "type": "number", "label": "Rating (1-5)" }
+    ]}
+  ]
+}

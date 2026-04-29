@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Font tokens - reference CSS variables from layout.tsx font imports */
+  --font-heading: var(--font-heading, "Archivo Black", sans-serif);
+  --font-body: var(--font-body, "Inter", sans-serif);
+
+  /* Tailwind utility mappings - each --color-* maps to a --theme-color-* variable */
+  --color-bg: var(--theme-color-bg);
+  --color-bg-muted: var(--theme-color-bg-muted);
+  --color-surface: var(--theme-color-surface);
+  --color-border: var(--theme-color-border);
+  --color-text: var(--theme-color-text);
+  --color-text-muted: var(--theme-color-text-muted);
+  --color-primary: var(--theme-color-primary);
+  --color-primary-fg: var(--theme-color-primary-fg);
+  --color-accent: var(--theme-color-accent);
+  --color-accent-fg: var(--theme-color-accent-fg);
+
+  /* Default token values - adventure theme palette */
+  --theme-color-bg: #fafafa;
+  --theme-color-bg-muted: #f5f5f5;
+  --theme-color-surface: #ffffff;
+  --theme-color-border: #e5e5e5;
+  --theme-color-text: #1a1a1a;
+  --theme-color-text-muted: #737373;
+  --theme-color-primary: #f97316;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #0ea5e9;
+  --theme-color-accent-fg: #ffffff;
+}
+
+/* Adventure theme - energetic and bold with orange primary, green secondary accents */
+.theme-adventure {
+  --theme-color-bg: #fafafa;
+  --theme-color-bg-muted: #f5f5f5;
+  --theme-color-surface: #ffffff;
+  --theme-color-border: #e5e5e5;
+  --theme-color-text: #1a1a1a;
+  --theme-color-text-muted: #737373;
+  --theme-color-primary: #f97316;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #0ea5e9;
+  --theme-color-accent-fg: #ffffff;
+}
+
+/* Nature theme - earthy greens for eco-focused presentation */
+.theme-nature {
+  --theme-color-bg: #f0fdf4;
+  --theme-color-bg-muted: #dcfce7;
+  --theme-color-surface: #ffffff;
+  --theme-color-border: #bbf7d0;
+  --theme-color-text: #14532d;
+  --theme-color-text-muted: #166534;
+  --theme-color-primary: #16a34a;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #65a30d;
+  --theme-color-accent-fg: #ffffff;
+}
+
+/* Bold theme - high contrast with dark background for dramatic impact */
+.theme-bold {
+  --theme-color-bg: #0a0a0a;
+  --theme-color-bg-muted: #171717;
+  --theme-color-surface: #262626;
+  --theme-color-border: #404040;
+  --theme-color-text: #fafafa;
+  --theme-color-text-muted: #a3a3a3;
+  --theme-color-primary: #ef4444;
+  --theme-color-primary-fg: #ffffff;
+  --theme-color-accent: #f97316;
+  --theme-color-accent-fg: #ffffff;
+}

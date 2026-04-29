@@ -1,0 +1,12 @@
+{
+  "component": "Features",
+  "fields": [
+    { "name": "heading", "type": "text", "label": "Section Heading" },
+    { "name": "subtext", "type": "textarea", "label": "Section Subtext" },
+    { "name": "features", "type": "array", "label": "Features List", "fields": [
+      { "name": "title", "type": "text", "label": "Feature Title" },
+      { "name": "description", "type": "textarea", "label": "Feature Description" },
+      { "name": "icon", "type": "text", "label": "Icon Name (lucide)" }
+    ]}
+  ]
+}
